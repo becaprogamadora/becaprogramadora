@@ -1,6 +1,6 @@
 # becaprogramadora
 
-Sou formada em Desenvolvimento de Sistemas e atualmente curso Engenharia da Computação. Tenho grande interesse por tecnologia, matemática e pelo aprendizado contínuo.
+Me chamo Rebeca Mendonça, sou formada em Desenvolvimento de Sistemas e atualmente curso Engenharia da Computação. Tenho grande interesse por tecnologia, matemática e pelo aprendizado contínuo.
 
 Ao longo da minha trajetória, desenvolvi habilidades essenciais como proatividade, comunicação clara, pontualidade, objetividade, criatividade e dedicação aos estudos. Essas qualidades me permitem atuar de forma eficiente na identificação de problemas e no desenvolvimento de soluções tecnológicas eficazes.
 
